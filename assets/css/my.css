@@ -1,8 +1,8 @@
-<!--
-<span class="fa fa-laptop fa-5x"></span><br /> 
-<span class="fa fa-laptop fa-5x"></span><br />
--->
-
 img {
   border-radius: 50%;
+}
+
+/* Header */
+#header {
+  background-image: url("images/mountains.jpg");
 }
